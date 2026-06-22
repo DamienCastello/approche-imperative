@@ -21,5 +21,9 @@ public class DeclarationApp {
         randomString = "Voici le résultat d’un calcul \n: 1+5=6";
 
         System.out.println(randomString);
+
+        int a = +2;
+
+        System.out.println(a);
     }
 }
